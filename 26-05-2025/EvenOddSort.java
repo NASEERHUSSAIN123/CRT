@@ -21,5 +21,6 @@ public class EvenOddSort {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        sc.close();
     }
 }
